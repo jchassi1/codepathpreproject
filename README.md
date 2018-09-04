@@ -3,12 +3,12 @@
 ## HelloName
 
 ### App Description
-`TODO://` This iOS app allows users to insert default or custom text into a text label, change the view/background color on the app, and change the color of the text. Users can also reset these settings to default settings.
+`TODO://` This iOS app allows users to insert custom text into a text label, change the view/background color on the app, and change the color of the text. Users can also reset these settings to default settings.
 
 ### App Walk-though
-`TODO://` http://g.recordit.co/uQZSEhdPrz.gif
+`TODO://` http://g.recordit.co/9knc5mtpnq.gif
 
-<img src="http://g.recordit.co/uQZSEhdPrz.gif" width=200><br>
+<img src="http://g.recordit.co/9knc5mtpnq.gif" width=200><br>
 
 `TODO://`
 
