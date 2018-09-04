@@ -6,9 +6,9 @@
 `TODO://` This iOS app allows users to insert custom text into a text label, change the view/background color on the app, and change the color of the text. Users can also reset these settings to default settings.
 
 ### App Walk-though
-`TODO://` http://g.recordit.co/VAElxfA8Nu.gif
+`TODO://` http://g.recordit.co/uQZSEhdPrz.gif
 
-<img src="http://g.recordit.co/VAElxfA8Nu.gif" width=200><br>
+<img src="http://g.recordit.co/uQZSEhdPrz.gif" width=200><br>
 
 `TODO://`
 
